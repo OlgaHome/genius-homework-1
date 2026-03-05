@@ -412,7 +412,7 @@ ul {
   height: 53px;
   color: var(--color-primary-normal);
   background: var(--color-primary-light);
-  border: none;
+  border: nonegit;
 }
 
 .form-note {
